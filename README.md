@@ -69,7 +69,6 @@ Next, run each file from 01_import to 05_Modeling.
 
 Below demonstrates how the web application is used to obtain sales predictions.
 
-The web application can be found at [here](https://king-remy-sales-forcast-app-06-web-applicationdashboard-8ozcug.streamlit.app/).
 ![webapp1](/Images/webapp1.png)
 
 1.	User inputs their event type, event start date, booking period (Weeks to event start date) and clicks the predict button.
